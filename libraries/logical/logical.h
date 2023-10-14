@@ -1,0 +1,1 @@
+void logical_function();
